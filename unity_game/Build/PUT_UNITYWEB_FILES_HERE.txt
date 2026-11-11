@@ -1,0 +1,2 @@
+Put unity_game.data.unityweb, unity_game.framework.js.unityweb and unity_game.wasm.unityweb here.
+The car/city *.bundle files go in ../StreamingAssets/ (fetch_from_har.py puts everything in the right place).

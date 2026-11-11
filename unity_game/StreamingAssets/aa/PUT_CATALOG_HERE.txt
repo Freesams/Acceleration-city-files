@@ -1,0 +1,3 @@
+Still needed in this folder (StreamingAssets/aa/):
+  catalog_<something>.json (or catalog.json), its matching catalog_<something>.hash, and settings.json
+Get them from the Network tab (filter: catalog / settings) or let fetch_from_har.py download them.
